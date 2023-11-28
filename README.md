@@ -16,4 +16,4 @@
 <br/>
 <br/>
 <p> Summarize </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=suleymansevimli&theme=dark&hide_border=true&card_width=500" alt="Suleyman's GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=suleymansevimli&theme=dark&card_width=500" alt="Suleyman's GitHub Streak" /></a>
